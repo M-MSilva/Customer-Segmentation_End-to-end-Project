@@ -4,7 +4,7 @@
 
 ## Important notes about the project
 
-This project was built with numerous tools and technologies, this is a summary document. Therefore, if you want to obtain more statistical and computational information see [Google Colaboratory](https://github.com/M-MSilva/Customer-Segmentation_End-to-end-Project/blob/master/jupyter_notebook/Customer_Segmentation.ipynb), to read about the conclusions found about the project, analyze the [Report](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Report/NBA_Project_M_MSilva.pdf). You can also access application created in [Web App](https://customer-segmentation-mm.herokuapp.com/) and see more information of datasets at [Kaggle]('https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
+This project was built with numerous tools and technologies, this is a summary document. Therefore, if you want to obtain more statistical and computational information see [Google Colaboratory](https://github.com/M-MSilva/Customer-Segmentation_End-to-end-Project/blob/master/jupyter_notebook/Customer_Segmentation.ipynb), to read about the conclusions found about the project, analyze the [Report](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Report/NBA_Project_M_MSilva.pdf). You can also access application created in [Web App](https://customer-segmentation-mm.herokuapp.com/) and see more information of datasets at [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 
 ## About this project
 
