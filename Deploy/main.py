@@ -13,12 +13,12 @@ import About
 st.sidebar.title('Menu')
 Page_user = st.sidebar.selectbox(
 
-'Choice',['Forecast for Customer Segmentation','About the author'] 
+'Choice',['Prediction for Customer Segmentation','About the author'] 
  
 )
 
 #change the pages
-if Page_user == 'Forecast for Customer Segmentation':
+if Page_user == 'Prediction for Customer Segmentation':
     WebApp.code()
     
 if Page_user == 'About the author':

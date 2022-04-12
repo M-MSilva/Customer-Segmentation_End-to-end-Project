@@ -23,7 +23,7 @@ def header():
     
     # Web App Title
     st.write("""
-    ## Forecast for Customer Segmentation app
+    ## Prediction for Customer Segmentation app
     
     #### Developed by: Marcos Matheus de Paiva Silva
     
