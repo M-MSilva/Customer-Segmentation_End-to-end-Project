@@ -53,7 +53,7 @@ The application is already running and it is not necessary to install anything o
 * [numpy 1.22.2](https://pypi.org/project/numpy/);
 * [Streamlit 1.6.0](https://pypi.org/project/streamlit/);
 * [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/);
-* [Matplotlib](https://pypi.org/project/matplotlib/);
+* [Matplotlib](https://pypi.org/project/matplotlib/3.2.2/);
 * [Requests 2.27.1](https://pypi.org/project/requests/).
 
 Hosted In:
@@ -85,7 +85,7 @@ pip install imblearn==0.0
 ```
 
 ```bash
-pip install xgboost==0.90
+pip install matplotlib==3.2.2
 ```
 
 done, go to the Deploy folder and type:
