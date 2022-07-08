@@ -53,7 +53,7 @@ The application is already running and it is not necessary to install anything o
 * [numpy 1.22.2](https://pypi.org/project/numpy/);
 * [Streamlit 1.6.0](https://pypi.org/project/streamlit/);
 * [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/);
-* [xgboost 0.90](https://pypi.org/project/xgboost/0.90/);
+* [Matplotlib](https://pypi.org/project/matplotlib/);
 * [Requests 2.27.1](https://pypi.org/project/requests/).
 
 Hosted In:
