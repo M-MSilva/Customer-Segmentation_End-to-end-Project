@@ -27,7 +27,7 @@ def header():
     
     #### Developed by: Marcos Matheus de Paiva Silva
     
-    This is a web application built on Streamlit and hosted on Heroku, whose purpose is to segment customers. In this project we deal with a **clustering** problem.
+    This is a web application built and hosted on Streamlit, whose purpose is to segment customers. In this project we deal with a **clustering** problem.
     
     **Links:** My [Linkedin](https://www.linkedin.com/in/marcos-matheus-silva-089699b3/) , [GitHub](https://github.com/M-MSilva) and [email](silvamarcosxd@gmail.com).
     """)
