@@ -58,7 +58,7 @@ The application is already running and it is not necessary to install anything o
 
 Hosted In:
 
-* heroku
+* Streamlit
 
 
 ### Running the Code
